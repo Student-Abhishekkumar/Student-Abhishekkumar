@@ -1,5 +1,4 @@
 <h1>Abhishek kumar</h1>
-______________________________________________________________________________
 
 - 👋 Hi, I’m @Student-Abhishekkumar 
 - 👀 I’m interested in software development
