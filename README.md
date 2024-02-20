@@ -1,8 +1,8 @@
-<body style="text-align:center;"> <h1>Abhishek kumar</h1>
+<h1>Abhishek kumar</h1>
 
 ![banner](https://img.freepik.com/premium-photo/anime-boy-his-computer-hearing-lofi-music_846334-1012.jpg?w=826)
 
- <hr> 👋 Hi, I’m @Student-Abhishekkumar </hr> </body>
+ <h2> 👋 Hi, I’m @Student-Abhishekkumar </h2> 
  
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning data science
