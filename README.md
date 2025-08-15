@@ -1,6 +1,6 @@
 <h1>Abhishek kumar</h1>
 
-![banner](https://img.freepik.com/premium-photo/anime-boy-his-computer-hearing-lofi-music_846334-1012.jpg?w=826)
+![download](https://github.com/user-attachments/assets/df19bf3c-dcc8-44a0-a684-cb14412fdf4b)
 
  <h2> 👋 Hi, I’m @Student-Abhishekkumar </h2> 
  
