@@ -1,6 +1,6 @@
 <h1>Abhishek kumar</h1>
 
-![download](https://github.com/user-attachments/assets/df19bf3c-dcc8-44a0-a684-cb14412fdf4b)
+<img width="1536" height="1024" alt="ChatGPT Image Aug 15, 2025, 08_41_59 PM" src="https://github.com/user-attachments/assets/21ba3650-6cbb-420b-8fe7-7f402baf163b" />
 
  <h2> 👋 Hi, I’m @Student-Abhishekkumar </h2> 
  
