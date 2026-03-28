@@ -5,7 +5,7 @@
  <h2> 👋 Hi, I’m @Student-Abhishekkumar </h2> 
  
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning data science
+- 🌱 I can build systems
 - 📫 How to reach me www.linkedin.com/in/abhishek-kumar-253884292
 - 😄 Exploring AI and Data Science
 - ⚡ Techthusiast
